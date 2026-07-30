@@ -1,0 +1,252 @@
+body {
+  margin: 0;
+}
+
+.title-container {
+  display: flex;
+  flex-direction: row;
+  min-height: 40vh;
+  background-color: #A1E3F9;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+  padding-top: 100px;
+
+  width: 100%;
+}
+
+h1 {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 100;
+  line-height: auto;
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-family: "SUSE Mono", sans-serif;
+  font-size: 2rem;
+  color: #7AB2D3;
+}
+
+.web-development-icon {
+  height: 10em;
+  margin-bottom: 100px;
+}
+
+.hero-container {
+  display: grid;
+  margin-top: 2vh;
+  grid-template-columns: minmax(300px, 600px) minmax(200px, 300px);
+  grid-template-rows: auto;
+  width: 50%;
+  max-width: 1000px;
+  margin: 100px auto 100px auto;
+  gap: 50px;
+}
+
+.me {
+  max-width: 100%;
+  border-radius: 20%;
+}
+
+p {
+  font-family: "SUSE Mono", sans-serif;
+
+}
+
+.resume {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.resume-img {
+  text-align: right;
+}
+
+.education-container {
+  display: grid;
+  grid-template-columns: 0.8fr 1fr;
+  grid-template-rows: 0.8fr 1fr;
+  width: 50%;
+  gap: 20px;
+  text-align: left;
+  margin: 20px auto 6em auto;
+}
+
+.resume-item>p {
+  margin-left: 30px;
+}
+
+.resume h3 {
+  font-size: 1.3rem;
+}
+
+.edupictures {
+  max-width: 225px;
+  padding: 2%;
+  background-color: black;
+  text-align: right;
+}
+
+.skill-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 0.5fr 1fr;
+  width: 80%;
+  column-gap: 2rem;
+  row-gap: 0.5rem;
+  margin: 2em auto 0 auto;
+}
+
+.skill-img>img {
+  max-width: 100px;
+}
+
+.skill-text {
+  text-align: left;
+}
+
+.skill-text>h3 {
+  text-align: center;
+}
+
+.contact-me {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.contact-me>h3 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 30px auto 30px;
+}
+
+.footer-container {
+  background-color: #A1E3F9;
+}
+
+.portfolio-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+  gap: 50px;
+}
+
+.project-container {
+  width: 400px;
+}
+
+.portfolio-container .project-picture-container {
+  margin-bottom: 20px;
+  padding: 0.5%;
+  background-color: black;
+
+}
+
+.portfolio-container img {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+
+}
+
+.personal-project-text-container {
+  margin: 20px auto;
+  text-align: center;
+}
+
+.project-text-container h2 {
+  text-align: center;
+}
+
+@media(min-width: 2000px) {
+  #myCarousel {
+    width: 36.5%;
+    padding-bottom: 50px;
+    background-color: #BCCCDC;
+  }
+}
+
+@media(min-width: 1600px) {
+  .skill-container {
+    grid-template-columns: repeat(3, 400px);
+    width: 1200px;
+  }
+}
+
+@media(max-width: 900px) {
+
+  .skill-container {
+    grid-template-columns: 0.3fr 1fr;
+    grid-template-rows: 0.6fr 1fr 1fr;
+    width: 80%;
+    column-gap: 2rem;
+    row-gap: 0.5rem;
+    margin: auto 0 0 100px;
+  }
+
+  .programming {
+    grid-area: 2 / 1 / 3 / 2;
+    text-align: center;
+  }
+
+  .organized {
+    grid-area: 3 / 1 / 4 / 2;
+  }
+}
+
+@media (max-width: 750px) {
+  .hero-container {
+    margin-left: 10%;
+  }
+
+  .education-container {
+    grid-template-columns: 1fr;
+  }
+
+  .resume-img {
+    text-align: center;
+  }
+}
+
+@media (max-width: 600px) {
+  .title-container {
+    flex-flow: column;
+  }
+
+  .hero-container {
+    grid-template-columns: auto;
+    grid-template-rows: 1fr 0.5fr;
+    gap: 10px;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .me {
+    max-width: 100%;
+  }
+
+  .skill-container {
+    margin: auto 0 0 50px;
+  }
+
+  .project-container {
+    width: 350px;
+  }
+
+}
+
+@media (max-width: 450px) {
+
+  h1,
+  .h2developer {
+    font-size: 1.2rem;
+  }
+}
