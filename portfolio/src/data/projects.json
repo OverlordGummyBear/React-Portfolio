@@ -6,7 +6,7 @@
             "imageAlt": "Picture of the portolio's banner"
         },
         "projectName": "Portfolio website",
-        "projectDescription": "This project was about creating a portfolio from scratch where I can showcase my own projects. Hopefully it will keep expanding. The project was originally developed using basic HTML and CSS, but was migrated to use React instead.",
+        "projectDescription": "This project was about creating a portfolio from scratch where I can showcase my own projects. Hopefully it will keep expanding. The project was originally developed using basic HTML and CSS, but was migrated to use React.",
         "projectSkills": [
             "HTML structure and semantic elements", 
             "CSS Flexbox and grid layouts", 
