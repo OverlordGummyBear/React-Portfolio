@@ -15,4 +15,7 @@ A personal portfolio website built with React, showcasing my background, skills,
 - CSS
 
 ## Live Demo
-Visit: 
+Visit: https://overlordgummybear.github.io/React-Portfolio/
+
+## Repo using Axios & EJS
+GitHub: https://github.com/OverlordGummyBear/CSS-portfolio
