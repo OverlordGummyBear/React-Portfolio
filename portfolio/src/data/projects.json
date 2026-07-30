@@ -2,7 +2,7 @@
     {
         "githubLink": "https://github.com/OverlordGummyBear/CSS-portfolio",
         "image": {
-            "imageLink": "/React-Portfolio/public/project-images/portfolio-project.png",
+            "imageLink": "project-images/portfolio-project.png",
             "imageAlt": "Picture of the portolio's banner"
         },
         "projectName": "Portfolio website",
@@ -17,7 +17,7 @@
     {
         "githubLink": "https://github.com/OverlordGummyBear/Blog",
         "image": {
-            "imageLink": "/React-Portfolio/public/project-images/blog-project.png",
+            "imageLink": "project-images/blog-project.png",
             "imageAlt": "Picture of blog project"
         },
         "projectName": "Blog application",
@@ -32,7 +32,7 @@
     {
         "githubLink": "https://github.com/OverlordGummyBear/BountyHunterWebsite",
         "image": {
-            "imageLink": "/React-Portfolio/public/project-images/api-project.png",
+            "imageLink": "project-images/api-project.png",
             "imageAlt": "Picture of website showcasing API usage"
         },
         "projectName": "BountyHunter website",
@@ -46,7 +46,7 @@
     {
         "githubLink": "https://github.com/OverlordGummyBear/Book-Notes",
         "image": {
-            "imageLink": "/React-Portfolio/public/project-images/book-note.png",
+            "imageLink": "project-images/book-note.png",
             "imageAlt": "Book note website screenshot"
         },
         "projectName": "Book note website",
@@ -62,7 +62,7 @@
     {
         "githubLink": "",
         "image": {
-            "imageLink": "/React-Portfolio/public/project-images/skewed-binary-search-tree.png",
+            "imageLink": "project-images/skewed-binary-search-tree.png",
             "imageAlt": "Picture of a skewed binary search tree"
         },
         "projectName": "Skewed Binary Search Tree",
@@ -77,7 +77,7 @@
     {
         "githubLink": "",
         "image": {
-            "imageLink": "/React-Portfolio/public/project-images/master-thesis-results.png",
+            "imageLink": "project-images/master-thesis-results.png",
             "imageAlt": "Results from master thesis"
         },
         "projectName": "Automatic concurrency test generation",
@@ -93,7 +93,7 @@
     {
         "githubLink": "",
         "image": {
-            "imageLink": "/React-Portfolio/public/project-images/fuzzing-cummulative-coverage.png",
+            "imageLink": "project-images/fuzzing-cummulative-coverage.png",
             "imageAlt": "Cummulative coverage of fuzzing JSON parsers"
         },
         "projectName": "Fuzzing JSON parsers",
