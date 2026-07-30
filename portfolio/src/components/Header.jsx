@@ -11,7 +11,7 @@ function Header(){
 
                 <div>
                     <div>
-                        <img src={WebDevelopmentPic} alt="web development icon" class="web-development-icon" />
+                        <img src={WebDevelopmentPic} alt="web development icon" className="web-development-icon" />
                     </div>
                 </div>
             </div> 

@@ -1,0 +1,105 @@
+[
+    {
+        "githubLink": "https://github.com/OverlordGummyBear/CSS-portfolio",
+        "image": {
+            "imageLink": "/public/project-images/portfolio-project.png",
+            "imageAlt": "Picture of the portolio's banner"
+        },
+        "projectName": "Portfolio website",
+        "projectDescription": "This project was about creating a portfolio from scratch where I can showcase my own projects. Hopefully it will keep expanding. ",
+        "projectSkills": [
+            "HTML structure and semantic elements", 
+            "CSS Flexbox and grid layouts", 
+            "Responsive design with media queries"
+        ]
+    },
+    {
+        "githubLink": "https://github.com/OverlordGummyBear/Blog",
+        "image": {
+            "imageLink": "/public/project-images/blog-project.png",
+            "imageAlt": "Picture of blog project"
+        },
+        "projectName": "Blog application",
+        "projectDescription": "A simple blog application, where you can create, edit and delete posts. It is responsive. It should look good in all screen sizes as it is responsive",
+        "projectSkills": [
+            "Running a web server with Node.js and Express",
+            "Server-side rendering with EJS and partials",
+            "Javascript"
+        ]
+    },
+    {
+        "githubLink": "https://github.com/OverlordGummyBear/BountyHunterWebsite",
+        "image": {
+            "imageLink": "/public/project-images/api-project.png",
+            "imageAlt": "Picture of website showcasing API usage"
+        },
+        "projectName": "BountyHunter website",
+        "projectDescription": "Bounty hunter website where you can find bounties on all the wacky characters from Rick and Morty.",
+        "projectSkills": [
+            "Making REST API calls with Axios",
+            "Handling query paramters for filtering and pagination",
+            "Error handling and retry logic for API rate limiting"
+        ]
+    },
+    {
+        "githubLink": "https://github.com/OverlordGummyBear/Book-Notes",
+        "image": {
+            "imageLink": "/public/project-images/book-note.png",
+            "imageAlt": "Book note website screenshot"
+        },
+        "projectName": "Book note website",
+        "projectDescription": "Book note website where you can create, rate, edit and delete reviews of books you have read as well as sort the reviews for different criteria",
+        "projectSkills": [
+            "PostgreSQL",
+            "Node.js and Express",
+            "Making REST API calls with Axios",
+            "Pagination",
+            "CRUD operations"
+        ]
+    },
+    {
+        "githubLink": "",
+        "image": {
+            "imageLink": "/public/project-images/skewed-binary-search-tree.png",
+            "imageAlt": "Picture of a skewed binary search tree"
+        },
+        "projectName": "Skewed Binary Search Tree",
+        "projectDescription": "Implementation of skewed binary search trees with different memory layouts, including a blocked layout for cache efficiency. Unit tested to verify correctness.",
+        "projectSkills": [
+            "Binary search tree implementation",
+            "Java",
+            "Unit testing",
+            "Cache efficient memory layout"
+        ]
+    },
+    {
+        "githubLink": "",
+        "image": {
+            "imageLink": "/public/project-images/master-thesis-results.png",
+            "imageAlt": "Results from master thesis"
+        },
+        "projectName": "Automatic concurrency test generation",
+        "projectDescription": "Master thesis about automatically generating and executing concurrent tests and report any concurrency bugs found using Microsoft Coyote and class invariants.",
+        "projectSkills": [
+            "Code generation and statement injection",
+            "Abstract syntax tree (AST) manipulation",
+            "C# & .Net",
+            "Microsoft Coyote",
+            "Test input generation for primitives and generic types"
+        ]
+    },
+    {
+        "githubLink": "",
+        "image": {
+            "imageLink": "/public/project-images/fuzzing-cummulative-coverage.png",
+            "imageAlt": "Cummulative coverage of fuzzing JSON parsers"
+        },
+        "projectName": "Fuzzing JSON parsers",
+        "projectDescription": "A fuzzing project where different heuristics were applied to a grammar-based fuzzer to maximize code coverage of several JSON parsers.",
+        "projectSkills": [
+            "Python",
+            "Grammar-based fuzzing",
+            "Coverage tracking and analysis"
+        ]
+    }
+]
