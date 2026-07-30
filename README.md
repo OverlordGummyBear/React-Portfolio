@@ -1,6 +1,6 @@
 # CSS Portfolio
 
-A personal portfolio website built with React, showcasing my background, skills, and projects. It is responsive, so elements adapt to the screen size.
+A personal portfolio website built using React, showcasing my background, skills, and projects. It is responsive, so elements adapt to the screen size.
 
 ## Features
 - About me section
