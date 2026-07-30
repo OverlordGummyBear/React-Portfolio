@@ -6,11 +6,12 @@
             "imageAlt": "Picture of the portolio's banner"
         },
         "projectName": "Portfolio website",
-        "projectDescription": "This project was about creating a portfolio from scratch where I can showcase my own projects. Hopefully it will keep expanding. ",
+        "projectDescription": "This project was about creating a portfolio from scratch where I can showcase my own projects. Hopefully it will keep expanding. The project was originally developed using basic HTML and CSS, but was migrated to use React instead.",
         "projectSkills": [
             "HTML structure and semantic elements", 
             "CSS Flexbox and grid layouts", 
-            "Responsive design with media queries"
+            "Responsive design with media queries",
+            "React"
         ]
     },
     {
@@ -20,11 +21,12 @@
             "imageAlt": "Picture of blog project"
         },
         "projectName": "Blog application",
-        "projectDescription": "A simple blog application, where you can create, edit and delete posts. It is responsive. It should look good in all screen sizes as it is responsive",
+        "projectDescription": "A simple blog application, where you can create, edit and delete posts. It is responsive. It should look good in all screen sizes as it is responsive. The project was originally developed using Express and EJS, but was migrated to solely use React instead.",
         "projectSkills": [
             "Running a web server with Node.js and Express",
             "Server-side rendering with EJS and partials",
-            "Javascript"
+            "Javascript",
+            "React"
         ]
     },
     {

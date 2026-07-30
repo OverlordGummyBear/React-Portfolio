@@ -19,7 +19,7 @@ function Skills(){
                 <SkillItem  title="Detail-oriented" 
                             content="Workingg as a QA tester have taught me to be very precise and concious details. This ensures that the developers can reproduce and resolve the bugs I report effectively."/>
                 <SkillItem  title="Programming" 
-                            content="As a Software Design student, I have gained experience with several programming languages, including Java, C#, Python, and F#. Currently I am learning HTML, CSS and JavaScript through an online course to expand web development skills."/>
+                            content="As a Software Design student, I have gained experience with several programming languages, including Java, C#, Python, and F#. Currently I am learning HTML, CSS and JavaScript and React to expand web development skills."/>
                 <SkillItem  title="Organized" 
                             content="Managing multiple courses and projects while also learning new skills in my free time requires strong organizational skills. Being organized allows me to structure my time efficiently and complete all the tasks I set for myself."/>
             </div>
